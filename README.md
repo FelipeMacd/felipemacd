@@ -1,6 +1,17 @@
 ## Olá! Eu sou o Felipe Macedo! 👋
 ### Seja bem Vindo!
 
+
+###
+
+<h2 align="left">Stats</h2>
+
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipemacd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipemacd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 ###
 
 <h2 align="left">Techs</h2>
@@ -32,17 +43,10 @@
   <img width="12" />
 </div>
 
-###
-
-<h2 align="left">Stats</h2>
 
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipemacd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipemacd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
+<h2 align="left">Contato</h2>
 
 <div>
   <a href="https://www.linkedin.com/in/felipe-macedo-372a74243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
