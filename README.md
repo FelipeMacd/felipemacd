@@ -3,7 +3,7 @@
 
 👨‍🎓 Estudante de programação.  
 📜 Conclui o bootcamp de formação Full-Stack Java Jr da Generation Brasil.  
-👨🏼‍💻 Atualemnte estudando de forma auto-didata por meio de cursos na internet.
+👨🏼‍💻 Atualmente estou estudando de forma auto-didata por meio de cursos na internet.
 
 
 ###
