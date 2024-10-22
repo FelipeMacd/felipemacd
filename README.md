@@ -1,6 +1,8 @@
 ## Olá! Eu sou o Felipe Macedo! 👋
 ### Seja bem Vindo!
 
+🚀 Sou estudante de programação, estudando de forma auto-didata por meio de cursos na internet.
+
 
 ###
 
