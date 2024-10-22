@@ -1,7 +1,9 @@
 ## Olá! Eu sou o Felipe Macedo! 👋
 ### Seja bem Vindo!
 
-🚀 Sou estudante de programação, estudando de forma auto-didata por meio de cursos na internet.
+👨‍🎓 Estudante de programação.
+📜 Conclui o bootcamp de formação Full-Stack Java Jr da Generation Brasil.
+👨🏼‍💻 Atualemnte estudando de forma auto-didata por meio de cursos na internet.
 
 
 ###
